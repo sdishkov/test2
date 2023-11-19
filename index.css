@@ -1,5 +1,5 @@
 body{
-    colour: read;
+    colour: red;
 }
 h2{
     colour: blue;
@@ -7,4 +7,6 @@ h2{
  p{
     colour:green;
  }
- 
+ p2{
+    colour:white;
+ }
